@@ -97,7 +97,7 @@ const Home = (props) => {
             </p>
           </div>
           <div className="home-buttons">
-            <button className="home-view1 button">unlock the circle!</button>
+            <button className="home-view1 button onclick="window.location.href='https://circle-social.vercel.app/'">unlock the circle!</button>
           </div>
         </section>
         <section className="home-description">
